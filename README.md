@@ -1,5 +1,5 @@
 # AprendeModelando
-Repositorio creado como recurso de aprendizaje en apoyo al libro Aprende Modelando de Daniel Morillo Torres, Ph.D. y Gustavo Gatica, Ph.D.
+Repositorio creado como recurso de aprendizaje en apoyo al libro Aprende Modelando de Daniel Morillo Torres, Ph.D. y Gustavo Gatica, Ph.D. Disponible para estudiantes UNAB en [Bilbioteca Virtual](https://recursosdigitales-unab-cl.recursosbiblioteca.unab.cl/rdigital/book6/35613000358274/228/)
 
 ## Nota importante
 
