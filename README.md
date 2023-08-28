@@ -53,4 +53,6 @@ La instalación en maquinas personales es sencilla, al dar clic en "Install" pod
 1. Instalar gurobi
 2. Utilizar el comando generado en la consola/terminal para activar la licencia en ese computador.
 
+# Uso en Google Colab
 
+Puedes trabajar con este repositorio directamente en [Google Colab](https://githubtocolab.com/fopasten/AprendeModelando)
