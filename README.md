@@ -56,3 +56,9 @@ La instalación en maquinas personales es sencilla, al dar clic en "Install" pod
 # Uso en Google Colab
 
 Puedes trabajar con este repositorio directamente en [Google Colab](https://githubtocolab.com/fopasten/AprendeModelando)
+
+Luego de dar clic en el link verás los archivos que se abrirán en una nueva pestaña al seleccionar el icono <img width="21" alt="image" src="https://github.com/fopasten/AprendeModelando/assets/20798216/cdcf0f5b-82a6-4c9a-8de0-83fd41d20200">
+,
+
+<img width="800" alt="image" src="https://github.com/fopasten/AprendeModelando/assets/20798216/028f3691-f933-4dca-8cd7-2946c01f5c9f">
+
